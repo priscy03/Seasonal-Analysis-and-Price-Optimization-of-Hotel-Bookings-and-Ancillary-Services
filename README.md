@@ -58,6 +58,71 @@ Ancillary Services: Dining (35%) is the biggest contributor, followed by Events 
 
 Room types Occupation: Guest use standard rooms (~45.14%) predominantly followed by deluxe (~33.09%) and suites (~21.78%) respectively.
 
+# Revenue Analysis
+
+
+<img width="666" height="98" alt="image" src="https://github.com/user-attachments/assets/6c3c24aa-bd0e-44e8-962a-dcae4c4e7235" />
+
+
+Key indicators ;
+
+Total Revenue: £11.9M (Rooms + Ancillary).
+
+ADR (Average Daily Rate): £240.74,
+
+Occupancy: 68.7%;
+
+•	The room rates are high, suggesting the hotel attracts guests willing to pay premium prices, a sign of pricing strength.
+
+•	However, the occupancy below 70% implies that demand elasticity is at play i.e., raising or maintaining high rates may be suppressing bookings slightly.
+
+RevPAR: £165.48; 
+
+•Healthy but not maximized; it reflects that revenue per available room is solid, yet occupancy constraints prevent stronger returns.
+
+
+<img width="625" height="113" alt="image" src="https://github.com/user-attachments/assets/febd0aad-d4b9-458f-a2b8-fd7eb43c4254" />
+
+
+Segment Performance
+
+•	Leisure guests contribute ~53% of total revenue, slightly higher than corporate guests (~47%).
+
+•	Corporate RevPAR trends upward until June, dips mid-year (June–November), and recovers towards year-end, aligning with Leisure RevPAR — indicating seasonal demand differences.
+
+•	Both segments peak in June, suggesting this is the hotel’s high season
+
+
+<img width="625" height="117" alt="image" src="https://github.com/user-attachments/assets/9fa5315c-17f4-418a-a863-95fcd9b7b02a" />
+
+Revenue & Occupancy Trends
+
+•	From January to August, occupancy outpaces revenue, suggesting discounting or low-rate bookings during high-demand months.
+
+•	From August to December, revenue and occupancy align, showing improved pricing consistency and possibly reduced discounting.
+
+Revenue by Room Type
+
+•	Suites generate the highest revenue, followed by Deluxe Rooms, with Standard Rooms contributing the least, this reflects value of rooms surpass the frequency of use.
+
+
+<img width="975" height="179" alt="image" src="https://github.com/user-attachments/assets/f6dab168-9b44-4170-b23d-8e60def48f28" />
+
+•	The hotel is overly dependent on room sales, with ancillary services underutilized.
+
+•	Expanding non-room revenue streams (spa, dining, events, transport) could:
+
+o	Enhance total revenue per guest,
+
+o	Smooth out seasonal fluctuations,
+
+o	Increase guest retention through experience-based offerings.
+
+
+
+
+
+
 
 
 
