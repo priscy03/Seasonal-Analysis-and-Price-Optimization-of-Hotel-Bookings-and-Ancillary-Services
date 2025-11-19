@@ -16,7 +16,7 @@ Insights and recommendations are provided on the following key areas:
 
 •	Service offerings may not align with the highest-value guest preferences.
 
-•	Grand Meridian Hotel database structure as seen below consists of three tables: Hotel-Bookings, Ancillary _Services, Room _Rates Table, with a total row count of 12,397 records.
+Grand Meridian Hotel database structure as seen below consists of three tables: Hotel-Bookings, Ancillary _Services, Room _Rates Table, with a total row count of 12,397 records.
 
 A description of each table is as follows:
 
@@ -41,6 +41,24 @@ A description of each table is as follows:
 
 
 The following sections will expand on general overview the hotel bookings data, optimize pricing, and grow ancillary revenue for improved profitability. 
+
+# Insights Deep Dive
+
+## Overview
+
+Number of Guest – 6,888
+
+Guest Segments: Leisure guests dominate (60%) compared to corporate (40%)
+
+Booking Channels: Online and OTA channels are strong contributors, with Direct trailing.
+
+Loyalty Members: Only ~21% of guests are loyalty member’s; weak retention.
+
+Ancillary Services: Dining (35%) is the biggest contributor, followed by Events and Spa.
+
+Room types Occupation: Guest use standard rooms (~45.14%) predominantly followed by deluxe (~33.09%) and suites (~21.78%) respectively.
+
+
 
 
 
