@@ -28,6 +28,21 @@ A description of each table is as follows:
 
 <img width="610" height="183" alt="image" src="https://github.com/user-attachments/assets/79062bfc-0cee-4cf5-9f7f-e3125cb6157d" />
 
+# Executive Summary
+
+•	This project analyzed GMH’s hotel performance to understand revenue drivers, guest segmentation, and the impact of pricing strategies.
+
+•	Through analysis identified that room revenue dominates, ancillary services are underutilized, and discounts dilute profitability without boosting revenue.
+
+•	Corporate guests remain the most stable segment, while leisure guests show strong seasonality but lower yield.
+
+•	The findings highlight opportunities to optimize pricing, strengthen direct bookings, and grow ancillary revenue for improved profitability.
+
+
+
+The following sections will expand on general overview the hotel bookings data, optimize pricing, and grow ancillary revenue for improved profitability. 
+
+
 
 
  
