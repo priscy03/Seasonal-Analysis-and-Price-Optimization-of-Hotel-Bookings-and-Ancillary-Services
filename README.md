@@ -168,7 +168,89 @@ ADR Stability with Seasonal Dips (ADR Trend)
 
 •  Seasonal adjustments appear minimal meaning GMH may not be leveraging seasonal uplift fully.
 
-This may imply  the hotel is not maximizing peak-season pricing and / or over-relying on discounts across Standard and Deluxe rooms to boost revenu
+This may imply  the hotel is not maximizing peak-season pricing and / or over-relying on discounts across Standard and Deluxe rooms to boost revenue
+
+
+# Stratigic Recommendation 
+
+## Revenue 
+
+1.Improve Occupancy While Keeping Rates High
+
+•	Introduce off-peak promotions and value-added packages (not discounts).
+
+•	Use advance-purchase and weekday offers to fill low-demand months.
+
+2. Tighten Pricing Consistency
+   
+•	Reduce early-year discounting by applying stronger rate fences and dynamic pricing.
+
+•	Adjust rates based on seasonal patterns (peak in June, mid-year dip).
+
+3. Strengthen Corporate Segment
+   
+•	Offer mid-year corporate incentives and renegotiate contract rates.
+
+•	Build partnerships with travel management companies to stabilize demand.
+
+4. Maximize High-Value Room Types
+
+•	Push upselling for Suites and Deluxe Rooms through digital and front-desk prompts.
+
+•	Create premium experience packages to lift average spend.
+
+5. Grow Ancillary Revenue
+
+•	Expand promotions for F&B, spa, events, and local experience add-ons.
+
+•	Assign monthly ancillary revenue targets for each department.
+
+6. Refine Segment & Seasonal Marketing
+
+•	Launch early summer campaigns for leisure.
+
+•	Target corporate groups and events during low months.
+
+7. Improve Performance of Standard Rooms
+   
+•	Minor upgrades + bundle them in value packages to boost occupancy.
+
+
+## Pricing 
+
+1. Reduce Ineffective Discounting
+   
+Discounts are not increasing revenue ; GMH should limit broad discounts and replace them with targeted or value-add offers.
+
+2. Adjust Standard Room Pricing
+   
+Standard rooms are dragging ADR; increase rates slightly or enhance value to strengthen the pricing ladder.
+
+3. Introduce LOS-Based Pricing
+
+ADR is flat across lengths of stay ; implement multi-night pricing or perks to boost revenue from longer stays.
+
+4. Maximize Peak-Season Rates
+   
+Increase Suite and Deluxe rates during high-demand months where ADR remains strong.
+
+5. Address Early-Year ADR Dip
+   
+Create seasonal packages and promotions (not discounts) to lift revenue between February and May.
+
+6. Increase Suite Utilization
+
+Promote upsells and packages to increase occupancy of high-margin Suites.
+
+7. Strengthen Seasonal and Event-Based Pricing
+   
+Use dynamic price adjustments for peak periods, weekends, and events to better capture demand.
+
+
+
+
+
+
 
 
 
