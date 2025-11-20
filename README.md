@@ -119,6 +119,58 @@ o	Smooth out seasonal fluctuations,
 o	Increase guest retention through experience-based offerings.
 
 
+# Pricing Analysis 
+
+
+<img width="625" height="112" alt="image" src="https://github.com/user-attachments/assets/ea8d6db2-74b2-45ce-9007-61dc7b7db7df" />
+
+
+•	Suites clearly dominate the ADR structure , occupying the largest block, showing not the highest price point as it has the least frequency in use .Deluxe rooms follow, while Standard rooms significantly lag behind.
+
+GMH’s pricing ladder is functioning well at the top end (Suite & Deluxe), but Standard rooms may be priced too low or lack value perception, pulling down overall ADR performance.
+
+•	There is no Positive Relationship Between Discounts and Revenue (Revenue vs Discount %) ; Corporate and leisure both show no clear upward pattern as discounts increase.
+
+o	Leisure revenue drops sharply at ~2–3% discount.
+
+o	Corporate revenue remains flat and unresponsive to discounting.
+
+Implication:
+
+Discounts are not driving incremental revenue. The £140K discount adjustments are not generating significant uplift ; meaning GMH is giving away rate without gaining demand volume.
+
+
+<img width="624" height="103" alt="image" src="https://github.com/user-attachments/assets/dc9ac1a6-1222-4d6f-999d-d9391817f97b" />
+
+LOS does not influence ADR (ADR vs LOS);
+
+•	Both corporate and leisure LOS clusters are tight and flat.
+
+•	ADR remains similar regardless of whether a guest stays 1 night or 7 nights.
+
+GMH is not using LOS-based pricing, which is a missed opportunity
+
+
+ADR Stability with Seasonal Dips (ADR Trend)
+
+•	ADR dips noticeably around February to May (£155.89)
+
+•	It then stabilizes for the rest of the year, with a consistent premium level above £220.
+
+ Early-year dip suggests a shoulder-season pricing opportunity
+
+
+
+<img width="975" height="176" alt="image" src="https://github.com/user-attachments/assets/6f449a24-44ff-445a-9831-19e2049cd499" />
+
+
+•  Discounts are cutting noticeably into finalized revenue.
+
+•  Seasonal adjustments appear minimal meaning GMH may not be leveraging seasonal uplift fully.
+
+This may imply  the hotel is not maximizing peak-season pricing and / or over-relying on discounts across Standard and Deluxe rooms to boost revenu
+
+
 
 
 
