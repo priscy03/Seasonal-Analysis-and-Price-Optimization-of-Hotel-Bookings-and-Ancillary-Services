@@ -6,7 +6,7 @@ Grand Meridian Hotel (GMH), a four-star hotel, opened its doors in 2004 in one o
 
 Over the past two decades, GMH has expanded modestly, now offering 182 guest rooms, a small but well-equipped conference suite, an on-site bistro, and a spa treatment room. The hotel positions itself as a premium option for visitors who value personalized service, central location, and a more intimate atmosphere compared to large chain hotels
 
-Despite maintaining strong occupancy, management struggled to pinpoint which guest segments and if pricing strategies drove the most profit. This project was initiated to uncover revenue performance patterns across room types, booking channels, and guest segments, assess the impact of discounts and seasonal adjustments, and develop an interactive Tableau dashboard to guide strategic pricing, marketing focus, and long-term revenue optimization.
+Despite maintaining strong occupancy, management struggled to pinpoint which guest segments and if pricing strategies drove the most profit. This project was initiated to uncover revenue performance patterns across room types, booking channels, and guest segments, assess the impact of discounts and seasonal adjustments, and develop an approach to strategic pricing, marketing focus, and long-term revenue optimization.
 
 Insights and recommendations are provided on the following key areas:
 
