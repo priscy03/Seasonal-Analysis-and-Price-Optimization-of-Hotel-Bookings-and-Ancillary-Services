@@ -247,6 +247,37 @@ Promote upsells and packages to increase occupancy of high-margin Suites.
 Use dynamic price adjustments for peak periods, weekends, and events to better capture demand.
 
 
+## Assumptions
+These are conditions we assume to be true for the analysis to hold.
+1. One Year of Data Represents Normal Operations
+We assume the single year of data is typical and not affected by unusual events (renovations, city-wide disruptions, etc.).
+2. Room Inventory Stays Constant (182 rooms)
+We assume all rooms were available throughout the year (no closures or maintenance downtime).
+3. Guest Segments (Corporate vs Leisure) Are Correctly Labeled
+We assume bookings are correctly tagged by guest type and not misclassified.
+4. ADR, RevPAR, LOS Calculations Follow Industry Standards
+We assume standard formulas apply:
+•	ADR = Total Room Revenue ÷ Rooms Sold
+•	RevPAR = Total Room Revenue ÷ Total Available Rooms
+________________________________________
+## 🔶 Caveats (Limitations)
+These are factors that may restrict the accuracy, completeness, or generalizability of your findings.
+1. Only Revenue Data Provided — No Cost or Profit Data
+We cannot evaluate profitability, only revenue performance.
+2. No Visibility of Competitors or Market Rates
+Pricing recommendations are made without benchmarking against the local market.
+3. Single-Year Data Limits Seasonal Accuracy
+Without multiple years, seasonal insights may be affected by abnormal events.
+4. Discount Impact Not Segmented by Type
+We cannot distinguish between:
+•	corporate negotiated rates
+•	seasonal promotions
+•	occupancy-driven markdowns
+Therefore, “discount effect” is averaged and may mask segment-level realities.
+
+
+
+
 
 
 
