@@ -266,7 +266,9 @@ We assume bookings are correctly tagged by guest type and not misclassified.
 4. ADR, RevPAR, LOS Calculations Follow Industry Standards
 
 We assume standard formulas apply:
+
 •	ADR = Total Room Revenue ÷ Rooms Sold
+
 •	RevPAR = Total Room Revenue ÷ Total Available Rooms
 
 ________________________________________
