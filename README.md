@@ -16,6 +16,10 @@ Insights and recommendations are provided on the following key areas:
 
 •	Service offerings may not align with the highest-value guest preferences.
 
+An interactive Tableau dashboard used to report and explore revenue and pricing trends can be found here [link].
+
+# Data Structure & Initial Checks
+
 Grand Meridian Hotel database structure as seen below consists of three tables: Hotel-Bookings, Ancillary _Services, Room _Rates Table, with a total row count of 12,397 records.
 
 A description of each table is as follows:
