@@ -16,7 +16,7 @@ Insights and recommendations are provided on the following key areas:
 
 •	Service offerings may not align with the highest-value guest preferences.
 
-An interactive Tableau dashboard used to report and explore revenue and pricing trends can be found here [link].
+An interactive Tableau dashboard used to report and explore revenue and pricing trends can be found here [(https://public.tableau.com/views/SeasonalAnalysisandPriceOptimizationofHotelBookingsandAncillaryServices/PricingDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)].
 
 # Data Structure & Initial Checks
 
